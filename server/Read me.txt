@@ -1,0 +1,2 @@
+Program automatycznie przechodzi do trybu fullscrre.
+Aby wy³¹czyæ program wciœnij przycisk "Esc".
